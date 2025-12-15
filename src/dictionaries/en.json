@@ -1,0 +1,100 @@
+{
+    "nav": {
+        "projects": "Projects",
+        "experience": "Experience",
+        "contact": "Contact"
+    },
+    "hero": {
+        "tag": "Software Developer",
+        "title": "Experience, built with precision.",
+        "description": "I’m Wasim — a frontend engineer crafting modern React & Next.js interfaces inspired by minimalism and the calm strength of water.",
+        "cta": "View CV"
+    },
+    "projects": {
+        "label": "Work",
+        "title": "Selected Projects",
+        "cta": "View case study →",
+        "items": {
+            "bento": {
+                "title": "Bento-box delivery app",
+                "description": "Bento-box delivery service with user-friendly ordering and management features."
+            },
+            "inventory": {
+                "title": "Inventory Management System",
+                "description": "Web app to track and manage inventory and assets assigned to employees."
+            },
+            "coupon": {
+                "title": "Coupon Management System",
+                "description": "Internal tool to generate and manage monthly employee coupons with validation and reporting features."
+            },
+            "pfrda": {
+                "title": "Employee Management Portal",
+                "description": "A comprehensive portal for managing employee data, performance reviews, and compliance with regulatory standards."
+            }
+        },
+        "noLink": "Internal Project"
+    },
+    "experience": {
+        "label": "Career",
+        "title": "Experience",
+        "items": {
+            "programming": {
+                "role": "Sr. Software Developer",
+                "points": [
+                    "Built and maintained scalable React interfaces used by global clients.",
+                    "Improved performance and reduced unnecessary re-renders through component optimization.",
+                    "Collaborated closely with designers and backend teams to deliver pixel-accurate UI.",
+                    "Ensured accessibility and cross-browser consistency across applications."
+                ]
+            },
+            "panorama": {
+                "role": "Software Developer",
+                "points": [
+                    "Developed responsive web applications using React, JavaScript, HTML, and CSS.",
+                    "Converted Figma and Adobe XD designs into clean, maintainable UI components.",
+                    "Integrated REST APIs and handled complex form validations.",
+                    "Mentored junior developers on frontend best practices."
+                ]
+            },
+            "freelance": {
+                "role": "Freelance Teaching",
+                "points": [
+                    "Taught foundational web development concepts including HTML, CSS, and JavaScript.",
+                    "Helped beginners understand programming logic and problem-solving techniques.",
+                    "Conducted one-on-one online sessions tailored to individual learning pace.",
+                    "Developed clear explanations and learning materials to simplify complex topics."
+                ]
+            }
+        }
+    },
+    "education": {
+        "label": "Academic",
+        "title": "Education",
+        "items": {
+            "mca": {
+                "degree": "MCA (Master of Computer Applications)"
+            },
+            "certification": {
+                "degree": "Web Development Certification"
+            },
+            "bca": {
+                "degree": "BCA (Bachelor of Computer Applications)"
+            }
+        }
+    },
+    "cv": {
+        "label": "Resume",
+        "title": "Curriculum Vitae",
+        "description": "A concise overview of my professional experience, skills, and education.",
+        "download": "Download CV",
+        "open": "Open in new tab"
+    },
+    "contact": {
+        "label": "Get in touch",
+        "title": "Let’s build something meaningful",
+        "description": "I’m open to frontend roles, freelance opportunities, and long-term collaborations. If you value clean UI, performance, and thoughtful design — we’ll work well together.",
+        "email": "Email Me",
+        "linkedin": "LinkedIn",
+        "footer": "Built with Next.js."
+    }
+}
