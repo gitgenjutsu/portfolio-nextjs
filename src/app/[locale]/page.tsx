@@ -7,6 +7,7 @@ import Contact from "../components/Contact";
 import Education from "../components/Education";
 import CVSection from "../components/CVSection";
 import { getDictionary } from "@/lib/getDictionary";
+import TechStack from "../components/TechStack";
 
 export default async function Page({ params }: { params: { locale: Locale } }) {
   const t = await getDictionary(params.locale);
@@ -15,6 +16,7 @@ export default async function Page({ params }: { params: { locale: Locale } }) {
       <Header labels={t.nav} />
       <main className="pt-16">
         <Hero locale={params.locale} />
+        <TechStack locale={params.locale} />
         <Projects locale={params.locale} />
         <Experience locale={params.locale} />
         <Education locale={params.locale} />

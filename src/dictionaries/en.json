@@ -96,5 +96,40 @@
         "email": "Email Me",
         "linkedin": "LinkedIn",
         "footer": "Built with Next.js."
+    },
+    "stack": {
+        "label": "Toolkit",
+        "title": "Tech Stack",
+        "core": {
+            "title": "Core Stack",
+            "items": [
+                "React",
+                "Next.js",
+                "TypeScript",
+                "Tailwind CSS"
+            ]
+        },
+        "ui": {
+            "title": "UI Engineering",
+            "items": [
+                "HTML5",
+                "CSS3",
+                "Responsive Design",
+                "Accessibility (a11y)",
+                "Three.js (basic)"
+            ]
+        },
+        "tools": {
+            "title": "Tooling & Workflow",
+            "items": [
+                "Git",
+                "GitHub",
+                "Jest & React Testing Library",
+                "Vercel",
+                "Figma",
+                "REST APIs",
+                "i18n"
+            ]
+        }
     }
 }

@@ -96,5 +96,40 @@
     "email": "メールを送る",
     "linkedin": "LinkedIn",
     "footer": "Next.js で構築"
+  },
+  "stack": {
+    "label": "使用技術",
+    "title": "技術スタック",
+    "core": {
+      "title": "コア技術",
+      "items": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS"
+      ]
+    },
+    "ui": {
+      "title": "UIエンジニアリング",
+      "items": [
+        "HTML5",
+        "CSS3",
+        "レスポンシブ対応",
+        "アクセシビリティ",
+        "Three.js（基礎）"
+      ]
+    },
+    "tools": {
+      "title": "開発環境・ツール",
+      "items": [
+        "Git",
+        "GitHub",
+        "Jest ＆ React Testing Library",
+        "Vercel",
+        "Figma",
+        "REST API",
+        "i18n"
+      ]
+    }
   }
 }

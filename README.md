@@ -2,7 +2,7 @@
 
 A minimal, performance-focused portfolio built with **Next.js**, showcasing my work, experience, and design philosophy inspired by **Japanese minimalism** and calm UI principles.
 
-🔗 **Live Demo:** https://your-vercel-url.vercel.app  
+🔗 **Live Demo:** https://wasim-dev.vercel.app  
 📄 **CV:** Available on the website  
 🌍 **Languages:** English / 日本語
 
