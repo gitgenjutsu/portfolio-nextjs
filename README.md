@@ -1,36 +1,108 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Wasim — Frontend Engineer Portfolio
 
-## Getting Started
+A minimal, performance-focused portfolio built with **Next.js**, showcasing my work, experience, and design philosophy inspired by **Japanese minimalism** and calm UI principles.
 
-First, run the development server:
+🔗 **Live Demo:** https://your-vercel-url.vercel.app  
+📄 **CV:** Available on the website  
+🌍 **Languages:** English / 日本語
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 👋 About Me
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Hi, I’m **Mohd Wasim**, a Frontend Engineer with 5+ years of experience building modern, scalable web interfaces using **React** and **Next.js**.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+I focus on:
 
-## Learn More
+- Clean UI architecture
+- Performance & accessibility
+- Component-driven development
+- Thoughtful user experience
 
-To learn more about Next.js, take a look at the following resources:
+Currently based in **India**, open to **global & Japan-based opportunities**.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠 Tech Stack
 
-## Deploy on Vercel
+- **Frontend:** React, Next.js (App Router), TypeScript
+- **Styling:** Tailwind CSS
+- **Animation & UX:** Framer Motion, custom interactions
+- **3D & Visuals:** Three.js / React Three Fiber
+- **i18n:** Custom dictionary-based internationalization
+- **Tooling:** Git, GitHub, ESLint
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details .
+## 📂 Featured Projects
+
+### 🍱 Bento-box Delivery App
+
+A full-stack friendly food ordering UI with localization support.
+
+- React, Tailwind, Node.js, i18n
+- Deployed & publicly accessible
+- Focus on UX and clean state management
+
+🔗 https://bentobox-blush.vercel.app/
+
+---
+
+### 🏢 Inventory Management System
+
+Enterprise web application for managing employee assets.
+
+- React, TypeScript, REST APIs
+- Role-based workflows
+- Production system (login required)
+
+> Note: Due to company restrictions, only UI samples and descriptions are shown.
+
+---
+
+### 🎟 Coupon Management System
+
+Internal tool for generating and managing employee coupons.
+
+- React, REST APIs
+- Validation & reporting features
+- Used internally within the organization
+
+---
+
+## 📜 Experience Snapshot
+
+- **Sr. Software Developer** — Programming.com (2024–Present)
+- **Software Developer** — Panorama Solutions (2020–2024)
+- **Freelance Instructor** — Web Development (2018–2019)
+
+More details available on the portfolio site.
+
+---
+
+## 🎓 Education
+
+- MCA — Lovely Professional University (Ongoing)
+- BCA — IGNOU
+- Web Development Certification — ADMEC
+
+---
+
+## 📬 Contact
+
+- **Email:** wasimmohdhere@gmail.com
+- **LinkedIn:** https://linkedin.com/in/wasim-mohd
+- **GitHub:** https://github.com/gitgenjutsu
+
+---
+
+## 📌 Notes
+
+- Built with **Next.js App Router**
+- Fully responsive & accessible
+- SEO + Open Graph optimized
+- Deployed on **Vercel**
+
+---
+
+© 2025 Mohd Wasim
